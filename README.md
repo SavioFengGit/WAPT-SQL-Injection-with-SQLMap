@@ -1,6 +1,6 @@
 # WAPT-SQL-Injection-with-SQLMap
 WAPT perform SQLi with sqlmap.<br>
-I show only the important steps required to perform the attack, so i did't explain everything.<br>
+I show only the important steps required to perform the attack, so, I didn’t explain everything.<br>
 # Introduction of the tool
 SQLmap is a tool that can automatically detect and exploit SQL injection vulnerabilities in web applications. SQL injection is a type of attack that allows an attacker to execute malicious SQL statements on a database server, which can result in data theft, data manipulation, or even complete takeover of the server. <br>SQLmap can perform various tasks, such as:<br>
 - Fingerprinting the database management system (DBMS) and its version.<br>
