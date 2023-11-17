@@ -39,4 +39,7 @@ You can decide to use curl or burp or others tools.
 4) Perform the attack:<b>  sqlmap -r request -p title</b>. You receive some payloads to inject into the form.
 <br> <img src="result_sqli_post.png" width=100% height="auto"><br>
 5) Send the request http into repeater and use the payloads as part of the title parameter to inject your malicious request.
-You can decide to use curl or burp or others tools.
+You can decide to use curl or burp or others tools.<br>
+
+#Author
+<b>Xiao Li Savio Feng</b>
